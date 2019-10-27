@@ -1,14 +1,3 @@
-<!--
-*=======================================================================
-*
-* File:    New Text Document.txt
-* Created: 10-27-2019, 06:37 PM
-*
-* Project: 
-*
-*=======================================================================
--->
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
 <HTML>
 <HEAD>
@@ -78,12 +67,7 @@ digivax engineering artificial atmosphere history and then instigate
 a cosmic brain-cell breakdown of the magnetic-flux generator flow
 confirmation.
 <BR>
-<SCRIPT LANGUAGE="JavaScript">
-<!--
-var dateObj = new Date(document.lastModified)
-document.write("File was last modified on " +dateObj.toLocaleString());
-//-->
-</script>
+
 
 
 </SPAN></TD>
